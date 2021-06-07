@@ -2,7 +2,7 @@ require('babel-register');
 require('babel-polyfill');
 
 var HDWalletProvider = require("truffle-hdwallet-provider");
-import MNEMONIC from './MNEMONIC.txt'
+const MNEMONIC =  'xyz';
 
 module.exports = {
   networks: {
