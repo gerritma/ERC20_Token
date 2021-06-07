@@ -1,0 +1,22 @@
+{
+  "name": "05_erc20_token",
+  "version": "1.0.0",
+  "main": "truffle-config.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1",
+    "chai": "^4.3.4",
+    "chai-as-promised": "^7.1.1",
+    "solc": "^0.8.2",
+    "truffle-hdwallet-provider": "^1.0.17"
+  },
+  "devDependencies": {},
+  "description": ""
+}
