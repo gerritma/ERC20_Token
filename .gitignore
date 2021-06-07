@@ -1,2 +1,5 @@
 MNEMONIC.txt
 .DS_Store
+node_modules
+truffle-config.js
+.gitignore
